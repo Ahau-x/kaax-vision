@@ -6,6 +6,10 @@ Kaax Vision es un plugin experimental desarrollado por **Ahau-x** para integrar 
 
 ## ⚙️ Instalación del Plugin ⚙️
 
+### 0️⃣ Descargar el Plugin
+Descarga el archivo ZIP del plugin (**kaax_vision.zip**) desde el siguiente enlace:
+https://drive.usercontent.google.com/download?id=1LeYtAjM_7TxIvx50gNfbJNcHuBxiMXj_&export=download&authuser=0&confirm=t&uuid=bebb2dc3-e8c5-4b2c-ab38-a20695a44fef&at=ALWLOp7OtOpQr_GvUB9W5NMigo1k:1763410471153
+
 ### 1️⃣ Requisitos previos
 - Tener instalada una versión de **QGIS 3.34 (LTR)** o superior.
 - Contar con conexión a Internet durante la instalación inicial (solo la primera vez).
@@ -17,7 +21,7 @@ Kaax Vision es un plugin experimental desarrollado por **Ahau-x** para integrar 
 1. Abre **QGIS**.
 2. Ve a:
    **Complementos -> Administrar e instalar complementos -> Instalar desde un ZIP**
-3. Selecciona el archivo **`kaax_vision.zip`**.
+3. Selecciona el archivo **`kaax_vision.zip`** que descargaste.
 4. Presiona **“Instalar complemento”**.
 5. QGIS mostrará un mensaje indicando que se instalarán las dependencias necesarias.
    > El plugin se cerrará automáticamente, descargará e instalará PyTorch, Hydra, Omegaconf, PyShp y Geopandas, y luego reiniciará QGIS.
